@@ -15,7 +15,7 @@ header{
     justify-content: center;
     align-items: center;
 }
-.square{
+#square{
     width: 80%;
     height: 80%;
     text-align: center;
