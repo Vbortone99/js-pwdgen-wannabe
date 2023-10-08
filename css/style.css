@@ -18,6 +18,12 @@ header{
 #square{
     width: 80%;
     height: 80%;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-style: italic;
+    text-shadow: 0px 5px 5px black;
+    font-size: 3em;
     background-color: #c9b7b7;
+    color: white;
 }
